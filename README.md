@@ -1,5 +1,3 @@
-Sure, here's a README for your GitHub project:
-
 ---
 
 # Profile Project
